@@ -4,6 +4,7 @@ function setup() {
 
 function draw() {
   background(220);
+  stroke(200)
   textSize(40)
   text("SIU")
 }
